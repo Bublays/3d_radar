@@ -1,104 +1,104 @@
 {
   "SRC001": {
     "ever_nonzero": true,
-    "consecutive_zero": 1,
-    "last_count": 0,
-    "last_run": "2026-08-24T06:03:45.263535+00:00"
+    "consecutive_zero": 0,
+    "last_count": 4,
+    "last_run": "2026-08-25T05:57:49.584529+00:00"
   },
   "SRC002": {
     "ever_nonzero": true,
-    "consecutive_zero": 2,
+    "consecutive_zero": 3,
     "last_count": 0,
-    "last_run": "2026-08-24T06:03:45.263535+00:00"
+    "last_run": "2026-08-25T05:57:49.584529+00:00"
   },
   "SRC003": {
     "ever_nonzero": false,
-    "consecutive_zero": 7,
+    "consecutive_zero": 8,
     "last_count": 0,
-    "last_run": "2026-08-24T06:03:45.263535+00:00"
+    "last_run": "2026-08-25T05:57:49.584529+00:00"
   },
   "SRC004": {
     "ever_nonzero": true,
-    "consecutive_zero": 4,
+    "consecutive_zero": 5,
     "last_count": 0,
-    "last_run": "2026-08-24T06:03:45.263535+00:00"
+    "last_run": "2026-08-25T05:57:49.584529+00:00"
   },
   "SRC005": {
     "ever_nonzero": true,
     "consecutive_zero": 0,
-    "last_count": 2,
-    "last_run": "2026-08-24T06:03:45.263535+00:00"
+    "last_count": 5,
+    "last_run": "2026-08-25T05:57:49.584529+00:00"
   },
   "SRC006": {
     "ever_nonzero": false,
-    "consecutive_zero": 7,
+    "consecutive_zero": 8,
     "last_count": 0,
-    "last_run": "2026-08-24T06:03:45.263535+00:00"
+    "last_run": "2026-08-25T05:57:49.584529+00:00"
   },
   "SRC007": {
     "ever_nonzero": true,
     "consecutive_zero": 0,
-    "last_count": 2,
-    "last_run": "2026-08-24T06:03:45.263535+00:00"
+    "last_count": 11,
+    "last_run": "2026-08-25T05:57:49.584529+00:00"
   },
   "SRC009": {
     "ever_nonzero": true,
     "consecutive_zero": 0,
-    "last_count": 1,
-    "last_run": "2026-08-24T06:03:45.263535+00:00"
+    "last_count": 2,
+    "last_run": "2026-08-25T05:57:49.584529+00:00"
   },
   "SRC011": {
     "ever_nonzero": true,
-    "consecutive_zero": 2,
+    "consecutive_zero": 3,
     "last_count": 0,
-    "last_run": "2026-08-24T06:03:45.263535+00:00"
+    "last_run": "2026-08-25T05:57:49.584529+00:00"
   },
   "SRC033": {
     "ever_nonzero": true,
     "consecutive_zero": 0,
     "last_count": 1,
-    "last_run": "2026-08-24T06:03:45.263535+00:00"
+    "last_run": "2026-08-25T05:57:49.584529+00:00"
   },
   "SRC034": {
     "ever_nonzero": false,
-    "consecutive_zero": 7,
+    "consecutive_zero": 8,
     "last_count": 0,
-    "last_run": "2026-08-24T06:03:45.263535+00:00"
+    "last_run": "2026-08-25T05:57:49.584529+00:00"
   },
   "SRC035": {
     "ever_nonzero": false,
-    "consecutive_zero": 7,
+    "consecutive_zero": 8,
     "last_count": 0,
-    "last_run": "2026-08-24T06:03:45.263535+00:00"
+    "last_run": "2026-08-25T05:57:49.584529+00:00"
   },
   "SRC036": {
     "ever_nonzero": false,
-    "consecutive_zero": 7,
+    "consecutive_zero": 8,
     "last_count": 0,
-    "last_run": "2026-08-24T06:03:45.263535+00:00"
+    "last_run": "2026-08-25T05:57:49.584529+00:00"
   },
   "SRC037": {
     "ever_nonzero": true,
-    "consecutive_zero": 1,
+    "consecutive_zero": 2,
     "last_count": 0,
-    "last_run": "2026-08-24T06:03:45.263535+00:00"
+    "last_run": "2026-08-25T05:57:49.584529+00:00"
   },
   "SRC038": {
     "ever_nonzero": false,
-    "consecutive_zero": 7,
+    "consecutive_zero": 8,
     "last_count": 0,
-    "last_run": "2026-08-24T06:03:45.263535+00:00"
+    "last_run": "2026-08-25T05:57:49.584529+00:00"
   },
   "SRC043": {
     "ever_nonzero": true,
-    "consecutive_zero": 5,
-    "last_count": 0,
-    "last_run": "2026-08-24T06:03:45.263535+00:00"
+    "consecutive_zero": 0,
+    "last_count": 2,
+    "last_run": "2026-08-25T05:57:49.584529+00:00"
   },
   "SRC048": {
     "ever_nonzero": true,
     "consecutive_zero": 0,
-    "last_count": 33,
-    "last_run": "2026-08-24T06:03:45.263535+00:00"
+    "last_count": 31,
+    "last_run": "2026-08-25T05:57:49.584529+00:00"
   }
 }
