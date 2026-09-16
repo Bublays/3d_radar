@@ -30,7 +30,6 @@ bez tokenu narazíš rychle na rate limit anonymních GitHub API požadavků.
 ```bash
 export GITHUB_TOKEN=ghp_...
 ```
-
 ## Co dělá endpoint_status v CSV
 
 | Stav | Chování skriptu v1 | Co znamená |
